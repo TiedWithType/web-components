@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap');
+
+:is(:root) {
+ /* basic colors */
+ --primaryTextColor: #212121;
+ --secondaryTextColor: #757575;
+ --divderColor: #bdbdbd;
+ --textColor: #ffffff;
+ 
+ /* indigo-pink palette */
+ --darkPrimaryColor: #303F9F;
+ --lightPrimaryColor: #C5CAE9;
+ --primaryColor: #3F51B5;
+ --accentColor: #FF4081;
+ 
+ /* blue-orange palette
+ --darkPrimaryColor: #1976D2;
+ --lightPrimaryColor: #BBDEFB;
+ --primaryColor: #2196F3;
+ --accentColor: #FF9800; */
+ 
+ /* teal-red palette
+ --darkPrimaryColor: #00796B;
+ --lightPrimaryColor: #B2DFDB;
+ --primaryColor: #009688;
+ --accentColor: #FF5252; */
+
+}
